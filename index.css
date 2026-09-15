@@ -20,6 +20,7 @@ button {
     background-color: transparent;
     border-radius: 4px;
     border-color: white;
+    color: white;
 }
 
 #sq-box1,
@@ -41,4 +42,12 @@ button {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
+}
+
+#reset-all {
+    text-align: center;
+    width: 120px;
+    height: 40px;
+    margin-left: 580px;
+    padding: 6px 12px;
 }

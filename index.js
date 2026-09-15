@@ -31,3 +31,8 @@ function addThree() {
     let plusThree = +(box2.textContent) + 3
     box2.textContent = plusThree
 }
+
+function resetGame() {
+    box1.textContent = 0
+    box2.textContent = 0
+}
