@@ -44,10 +44,17 @@ button {
     background-clip: text;
 }
 
+.reset {
+    width: auto;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 #reset-all {
     text-align: center;
-    width: 120px;
-    height: 40px;
-    margin-left: 580px;
+    width: auto;
+    height: auto;
     padding: 6px 12px;
 }
