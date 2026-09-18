@@ -72,9 +72,9 @@ Feel free to customize:
 - **Button Labels** — Adjust `+1`, `+2`, `+3` to match your sport's scoring rules
 - **Dimensions** — Resize boxes and buttons in `index.css`
 
-## 📝 License
+## 📄 License
 
-This project is open-source and available for anyone to use and modify.
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ---
 
